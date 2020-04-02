@@ -1,5 +1,4 @@
 #!/usr/bin/python3
 
-import scrapy
+import subprocess
 
-print("hello world")
